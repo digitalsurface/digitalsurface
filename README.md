@@ -1,5 +1,5 @@
 # 💫 About Me:
-estou aprendendo a programar em PYTHON, já tive contato com C++ e JAVA, meu foco é BACK-END , também gosto de mexer com projetos FRON-END, mas por diversão e curiosidade. Ainda tenho algumas dificuldades com DATABASE, inglês não é meu idioma principal.
+I am learning to program in PYTHON, already had contact with C++ and JAVA, my focus is BACK-END, I also like to mess with FRON-END projects, but for fun and curiosity. I still have some difficulties with DATABASE, Portuguese is my main language.
 
 
 # 💻 Tech Stack:
